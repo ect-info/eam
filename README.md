@@ -1,2 +1,2 @@
-# eam
-Disciplina Aprendizado de Máquina - Nível Especialização
+# Disciplina Aprendizado de Máquina - Nível Especialização
+
